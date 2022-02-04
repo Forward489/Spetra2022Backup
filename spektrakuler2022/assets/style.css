@@ -1,0 +1,48 @@
+#bim {
+    background-image: url("../img/cover_bim.png");
+}
+
+#bsb {
+    background-image: url("../img/cover_bsb.png");
+}
+
+#bom {
+    background-image: url("../img/cover_bom.png");
+}
+
+#bim,
+#bsb,
+#bom {
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+#submit_button,
+#registration {
+    margin-left: 50%;
+}
+
+.row {
+    border-radius: 20%;
+}
+
+.separator {
+    visibility: hidden;
+    width: 20px;
+}
+
+.separator2 {
+    visibility: hidden;
+    width: 10px;
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    text-align: center;
+    display: inline;
+    padding: 10px 0;
+}
